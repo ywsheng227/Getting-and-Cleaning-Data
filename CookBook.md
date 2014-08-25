@@ -1,12 +1,11 @@
 Activity
 =================
-Activity_ID Activity_label
-1           WALKING
-2           WALKING_UPSTAIRS
-3           WALKING_DOWNSTAIRS
-4           SITTING
-5           STANDING
-6           LAYING
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
 
 Feature Selection 
 =================
